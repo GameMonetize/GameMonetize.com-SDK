@@ -30,7 +30,7 @@ This repository contains the GameMonetize.com SDK for HTML5 games. This allows y
 (function (a, b, c) {
    var d = a.getElementsByTagName(b)[0];
    a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
-})(document, "script", "distributegames-sdk"); 
+})(document, "script", "gamemonetize-sdk"); 
 </script></code></pre>
 
 # MANDATORY SETTINGS:
