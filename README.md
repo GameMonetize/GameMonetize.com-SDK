@@ -1,5 +1,5 @@
 <img src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4">  &nbsp;&nbsp;
-<img src="https://distributegames.com/images/html5-logo.png" width="100" alt="" data-canonical-src="https://distributegames.com/images/html5-logo.png">
+<img src="https://gamemonetize.com/images/html5-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/html5-logo.png">
 
 # GameMonetize.com-SDK
 This repository contains the GameMonetize.com SDK for HTML5 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
